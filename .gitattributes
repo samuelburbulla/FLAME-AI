@@ -97,3 +97,5 @@ working/checkpoint_5800.pt filter=lfs diff=lfs merge=lfs -text
 working/checkpoint_7400.pt filter=lfs diff=lfs merge=lfs -text
 working/checkpoint_7700.pt filter=lfs diff=lfs merge=lfs -text
 working/checkpoint_1000.pt filter=lfs diff=lfs merge=lfs -text
+model.pt filter=lfs diff=lfs merge=lfs -text
+submission.csv filter=lfs diff=lfs merge=lfs -text
