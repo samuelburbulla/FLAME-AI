@@ -9,10 +9,18 @@ The submission was ranked #10 on the [Kaggle leaderboard](https://www.kaggle.com
 
 Training script: `flame.py`
 
-Model parameters: `model.pt`
+Model parameters: `working/model.pt`
 
-Submission file: `submission.csv`
+Submission file: `working/submission.csv`
 
+
+## Usage
+
+Requirements: `torch`, `numpy`, `pandas`, `matplotlib`.
+
+Train the model by running `python flame.py`.
+
+If you want run the script with trained model weights, set `load_model_weights = True` in `flame.py`.
 
 
 ## Visualization
