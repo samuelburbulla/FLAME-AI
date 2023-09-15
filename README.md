@@ -13,3 +13,15 @@ Model parameters: `model.pt`
 
 Submission file: `submission.csv`
 
+
+
+## Visualization
+
+### Input
+![](https://github.com/samuelburbulla/FLAME-AI/blob/main/working/lr.png?raw=true)
+
+### Prediction
+![](https://github.com/samuelburbulla/FLAME-AI/blob/main/working/hr_pred.png?raw=true)
+
+### Ground truth
+![](https://github.com/samuelburbulla/FLAME-AI/blob/main/working/hr.png?raw=true)
